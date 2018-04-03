@@ -1,1 +1,3 @@
-This is a read me file. 
+# My Project
+
+This is the readme for my new project.
